@@ -1,4 +1,4 @@
-name: max_projec_environment
+name: max_projections_environment
 channels:
   - conda-forge
 dependencies:
