@@ -1,0 +1,8 @@
+name: max_projections_environment
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - pandas
+  - scikit-image
+  - bokeh
