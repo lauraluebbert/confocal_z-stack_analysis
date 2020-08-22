@@ -14,7 +14,7 @@ I compiled two notebooks to streamline two of the most commonly performed tasks 
       - "Samplecondition" can be a string of text separated by "-", e.g., "GCaMP-30C-6d_sample_channel" (Do not use spaces or "_" within the condition, else part of it will be cut out in the dictionary.)  
       - "Sample" and "channel" can be a simple number or a description, e.g.: "samplecondition_1_1" or "samplecondition_Brain1_DAPI".  (Do not use spaces or "_" within the sample or channel.)  
 3. The code currently only works for tif files containing one fluorescence channel each. (The maximum projection notebook does not have a merging option, yet.)
-4. Let me know if you run into issues; I would love to hear your feedback! This code is quite versatile and I am happy to help you tailor it to your needs.
+4. Let me know if you run into issues; I would love to hear your feedback! This code is quite versatile and can be tailored to analyze 2D images and time series (including 2-photon images).
 5. Please [cite](https://academia.stackexchange.com/questions/14010/how-do-you-cite-a-github-repository) this GitHub repository if you found it to be useful. 
 
 ENJOY!
