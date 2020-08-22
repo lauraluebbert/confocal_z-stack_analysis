@@ -8,7 +8,8 @@ I compiled two notebooks to streamline two of the most commonly performed tasks 
 2. The second notebook ("TEMPLATE_fluo_analysis) is designed to aid you in the analysis of the pixel (or fluorescence) values in your images. For this purpose, it first generates sum projections from your z-stacks (the notebook includes the option to save these locally too). You can then manually draw regions of interest (ROIs) and define background (BG) areas to normalize against. From your manually drawn ROIs, the notebook will compute the raw integrated density (sum of all BG normalized pixel values in ROI) as well as the integrated density (product of ROI area (number of pixels in ROI) and mean BG normalized pixel value inside the ROI) for each sample and save them to a clean csv file for further analysis. The images, ROI coordinates, and pixel values are saved to a dictionary and continuously linked to their sample#, channel, condition, and original filename, so nothing ever gets confused. These dictionaries are also saved locally as pickle files, which you could import into a new notebook for further analysis. They also contain your ROIs, which means that you will never ever have to redraw ROIs again over and over in FIJI just to change that one parameter in your analysis. 
 
 ![Image of ROI drawing](https://ibb.co/4WLRf1W)
-![Image of ROI overlay](fhttps://ibb.co/D9WghKh)
+
+![Image of ROI overlay](https://ibb.co/D9WghKh)
 
 #### A few ground rules:
 1. Please read the text at the top of each notebook for instructions on how to use it. 
