@@ -6,3 +6,6 @@ dependencies:
   - pandas
   - scikit-image
   - bokeh
+  - bebi103
+  - pickle
+  - pathlib
