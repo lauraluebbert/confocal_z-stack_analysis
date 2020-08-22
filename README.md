@@ -18,3 +18,5 @@ A few ground rules:
 5. Please [cite](https://academia.stackexchange.com/questions/14010/how-do-you-cite-a-github-repository) this GitHub repository if you found it to be useful. 
 
 ENJOY!
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3995395.svg)](https://doi.org/10.5281/zenodo.3995395)
