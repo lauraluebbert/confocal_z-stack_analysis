@@ -1,5 +1,5 @@
 # confocal_z-stack_analysis
-Imaging experiments in Biology often involve the acquisition of confocal z-stack images to quantify fluorescent signal in a biological sample. These z-stacks are most often analyzed using open-source programs such as FIJI, which are notoriously frustrating to work with, and do not facility intuitive high-throughput analysis of many images at once. Manual image analysis is labor-intensive, time-consuming, and prone to human error.
+Imaging experiments in Biology often involve the acquisition of confocal z-stack images to quantify fluorescent signal in a biological sample. These z-stacks are usually analyzed using open-source programs such as FIJI, which are notoriously frustrating to work with, and do not facility intuitive high-throughput analysis of many images at once. Manual image analysis is labor-intensive, time-consuming, and prone to human error.
 
 I compiled two notebooks to streamline two of the most commonly performed tasks in the analysis of confocal z-stack images:
 
