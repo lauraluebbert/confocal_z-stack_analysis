@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Luebbert"
+  given-names: "Laura"
+  orcid: "https://orcid.org/0000-0003-1379-2927"
+title: "confocal_z-stack_analysis"
+version: 1.0.0
+doi: 10.5281/zenodo.3995395
+date-released: 2021-11-05
+url: "https://github.com/lauraluebbert/confocal_z-stack_analysis"
