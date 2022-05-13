@@ -1,4 +1,5 @@
 # confocal_z-stack_analysis
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3995395.svg)](https://doi.org/10.5281/zenodo.3995395)  
 Imaging experiments in Biology often involve the acquisition of confocal z-stack images to quantify fluorescent signal in a biological sample. These z-stacks are usually analyzed using open-source programs such as FIJI, which are notoriously frustrating to work with, and do not facility intuitive high-throughput analysis of many images at once. Manual image analysis is labor-intensive, time-consuming, and prone to human error.
 
 I compiled two notebooks to streamline two of the most commonly performed tasks in the analysis of confocal z-stack images:
@@ -21,5 +22,3 @@ I compiled two notebooks to streamline two of the most commonly performed tasks 
 5. Please cite this GitHub repository if you found it to be useful. 
 
 ENJOY!
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3995395.svg)](https://doi.org/10.5281/zenodo.3995395)
